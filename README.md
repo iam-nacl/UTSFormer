@@ -1,4 +1,4 @@
-# DTMFormer
+# UTSFormer
 
 This repo is the official implementation for:Universal Token Sparsification for Convergence
  Promotion in Transformer-Based Medical Image Segmentation.
